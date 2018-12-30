@@ -1,0 +1,24 @@
+{
+  "name": "fut19-scraper",
+  "version": "1.0.0",
+  "description": "FUT19-scraper",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "players": "node fetchPlayers.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albatrauz/fut19-scraper.git"
+  },
+  "author": "Michael van Gorkum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Albatrauz/fut19-scraper/issues"
+  },
+  "homepage": "https://github.com/Albatrauz/fut19-scraper#readme"
+}

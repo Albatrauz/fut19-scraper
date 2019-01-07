@@ -4,7 +4,8 @@
   "description": "FUT19-scraper",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "progress": "^2.0.3"
   },
   "devDependencies": {},
   "scripts": {
